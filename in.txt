@@ -1,0 +1,5 @@
+Hanni,hanni@hybe.com,3200.00
+Haerin,haerin@hybe.com,1900.00
+Minji,minji@hybe.com,1700.00
+Danielle,danielle@hybe.com,3500.00
+Hyein,hyein@hybe.com,2800.00
